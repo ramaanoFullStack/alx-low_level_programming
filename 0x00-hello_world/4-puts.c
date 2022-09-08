@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-* main is the entry point and we use the function puts to print
+* main - start program
 *
-* Program ends with the value 0 (Success)
+* return: is 0  (success)
 */
 
 int main(void)
