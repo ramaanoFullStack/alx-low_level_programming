@@ -12,7 +12,7 @@ int rsn;
 for (rsn = 48; rsn < 58; rsn++)
 {
 putchar(rsn);
-if (rsn !=57)
+if (rsn != 57)
 {
 putchar(',');
 putchar(' ');
