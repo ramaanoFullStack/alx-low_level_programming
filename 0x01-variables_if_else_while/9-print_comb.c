@@ -15,7 +15,7 @@ putchar(rsn);
 if (rsn !=57)
 {
 putchar(',');
-putchar(',');
+putchar(' ');
 }
 }
 putchar('\n');
