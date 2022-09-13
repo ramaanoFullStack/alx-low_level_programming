@@ -7,7 +7,7 @@
 * @rsn2: interger 2
 * Return: rsum
 */
-int add( int rsn1, int rsn2)
+int add(int rsn1, int rsn2)
 {
 int rsum;
 rsum = rsn1 + rsn2;
