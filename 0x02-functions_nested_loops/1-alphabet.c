@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
-* print_rsalphabet - start program
+* print_alphabet - start program
 *
 * Return: void
 */
-void print_rsalphabet(void)
+void print_alphabet(void)
 {
 char rsletter = 'a';
 
