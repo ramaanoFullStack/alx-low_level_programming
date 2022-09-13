@@ -5,13 +5,13 @@
 *
 * Return: is 1 = true. 0 = false.
 */
-int _islower(int rs)
+int _islower(int c)
 {
 int r = 'a';
 
 for (r = 'a';r <= 'z'; r++)
 {
-if (rs == r)
+if (c == r)
 {
 return (1);
 }
