@@ -9,7 +9,7 @@
 */
 int add( int rsn1, int rsn2)
 {
-  int rsum;
-  rsum = rsn1 + rsn2;
-  return (rsum);
+int rsum;
+rsum = rsn1 + rsn2;
+return (rsum);
 }
