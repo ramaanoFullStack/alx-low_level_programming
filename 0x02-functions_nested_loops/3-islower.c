@@ -7,11 +7,11 @@
 */
 int _islower(int rs)
 {
-int rsn = 'a';
+int r = 'a';
 
-for (rsn = 'a';rsn <= 'z'; rsn++)
+for (r = 'a';r <= 'z'; r++)
 {
-if (rs == rsn)
+if (rs == r)
 {
 return (1);
 }
