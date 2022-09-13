@@ -3,6 +3,7 @@
 /**
 * _islower - start program
 *
+* @c: recived value
 * Return: is 1 = true. 0 = false.
 */
 int _islower(int c)
