@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-* main - infinate loop initiated
-*
-* Return: is 0 (Success)
+* main - causes an infinate loop
+* Return: 0
 */
+
 int main(void)
 {
 int i;
