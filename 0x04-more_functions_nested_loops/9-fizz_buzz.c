@@ -3,37 +3,38 @@
 /**
 * main - start program
 *
-* Return: void
+* Return: 0
 */
 
 int main(void)
 {
-int rsn = 1;
+int i = 1;
 
-while (rsn <= 100)
+while (i <= 100)
 {
-if (rsn % 3 == 0 && rsn % 5 == 0)
+if (i % 3 == 0 && i % 5 == 0)
 {
 printf("FizzBuzz");
 }
-else if (rsn % 3 == 0)
+else if (i % 3 == 0)
 {
 printf("Fizz");
 }
-else if (rsn % 5 == 0)
+else if (i % 5 == 0)
 {
 printf("Buzz");
 }
 else
 {
-printf("%rsn", rsn);
+printf("%i", i);
 }
-if (rsn != 100)
+if (i != 100)
 {
-_putchar(' ');
+putchar(' ');
 }
-rsn++;
+
+i++;
 }
-_putchar('\n');
+putchar('\n');
 return (0);
 }
