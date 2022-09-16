@@ -30,10 +30,10 @@ printf("%rsn", rsn);
 }
 if (rsn != 100)
 {
-putchar(' ');
+_putchar(' ');
 }
 rsn++;
 }
-putchar('\n');
+_putchar('\n');
 return (0);
 }
