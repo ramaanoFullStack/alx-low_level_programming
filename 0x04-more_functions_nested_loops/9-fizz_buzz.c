@@ -32,7 +32,6 @@ if (rsn != 100)
 {
 putchar(' ');
 }
-
 rsn++;
 }
 putchar('\n');
