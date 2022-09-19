@@ -1,4 +1,4 @@
-#inlcude "main.h"
+#include "main.h"
 
 /**
 * puts_half - start program
