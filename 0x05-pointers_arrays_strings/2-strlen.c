@@ -6,7 +6,7 @@
 *
 * Return: integer length
 */
-int_strlen(char *5)
+int_strlen(char *s)
 {
 int length = 0;
 
