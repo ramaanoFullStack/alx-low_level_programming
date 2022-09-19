@@ -3,7 +3,7 @@
 
 /**
 * print_array - start program
-* @: array pointer
+* @a: array pointer
 * @n: interger
 */
 void print_array(int *a, int n)
