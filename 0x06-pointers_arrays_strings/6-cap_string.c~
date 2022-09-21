@@ -1,0 +1,7 @@
+#include "main.h"
+
+/**
+* *cap_string - Start program
+* @str: string
+* Return: changed string
+*/
