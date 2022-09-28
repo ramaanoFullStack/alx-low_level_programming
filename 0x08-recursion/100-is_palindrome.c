@@ -27,7 +27,7 @@ return (len);
 * check_palindrome - start program.
 * @s: string to be checked.
 * @len: length of s.
-* @index: string to be checked.
+* @i: string to be checked.
 *
 * Return: a palindrome - 1.
 *         not a palindrome - 0.
