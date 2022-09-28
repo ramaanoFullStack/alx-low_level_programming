@@ -4,7 +4,7 @@ int test_sqrt(int num, int root);
 int _sqrt_recursion(int n);
 
 /**
-* find_sqrt - start program.
+* test_sqrt - start program.
 * @num: The number to find the square root of.
 * @root: The root to be tested.
 *
